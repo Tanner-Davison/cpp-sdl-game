@@ -21,10 +21,11 @@ std::vector<std::unique_ptr<Player>> createPlayers(int count) {
   }
 
   if (count == 1) {
-    // Center on Single
+    // Center on Single element
     players.push_back(std::make_unique<Player>(centerX, bottomY));
   } else {
-    // V formation logic
+    // V formation logic when multiple
+
     int middleIndex = count / 2;
     for (int i = 0; i < count; ++i) {
       int offsetX = (i - middleIndex) * PLAYER_SPACING;

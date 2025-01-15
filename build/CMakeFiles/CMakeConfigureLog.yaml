@@ -24,7 +24,7 @@ events:
       The output was:
       0
       MSBuild version 17.12.12+1cce77968 for .NET Framework
-      Build started 1/13/2025 10:20:40 PM.
+      Build started 1/14/2025 10:23:31 PM.
       
       Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\3.31.4\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.35
+      Time Elapsed 00:00:00.53
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -79,7 +79,7 @@ events:
       The output was:
       0
       MSBuild version 17.12.12+1cce77968 for .NET Framework
-      Build started 1/13/2025 10:20:41 PM.
+      Build started 1/14/2025 10:23:32 PM.
       
       Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\3.31.4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.34
+      Time Elapsed 00:00:00.37
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-nchhme"
-      binary: "E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-nchhme"
+      source: "E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-1ch5jz"
+      binary: "E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-1ch5jz"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -137,40 +137,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-nchhme'
+        Change Dir: 'E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-1ch5jz'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9fc33.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b02c0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.12.12+1cce77968 for .NET Framework
-        Build started 1/13/2025 10:20:41 PM.
+        Build started 1/14/2025 10:23:32 PM.
         
-        Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nchhme\\cmTC_9fc33.vcxproj" on node 1 (default targets).
+        Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ch5jz\\cmTC_b02c0.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_9fc33.dir\\Debug\\".
+          Creating directory "cmTC_b02c0.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nchhme\\Debug\\".
-          Creating directory "cmTC_9fc33.dir\\Debug\\cmTC_9fc33.tlog\\".
+          Creating directory "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ch5jz\\Debug\\".
+          Creating directory "cmTC_b02c0.dir\\Debug\\cmTC_b02c0.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_9fc33.dir\\Debug\\cmTC_9fc33.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_9fc33.dir\\Debug\\cmTC_9fc33.tlog\\unsuccessfulbuild".
+          Creating "cmTC_b02c0.dir\\Debug\\cmTC_b02c0.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_b02c0.dir\\Debug\\cmTC_b02c0.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9fc33.dir\\Debug\\\\" /Fd"cmTC_9fc33.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b02c0.dir\\Debug\\\\" /Fd"cmTC_b02c0.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.42.34435 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9fc33.dir\\Debug\\\\" /Fd"cmTC_9fc33.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b02c0.dir\\Debug\\\\" /Fd"cmTC_b02c0.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nchhme\\Debug\\cmTC_9fc33.exe" /INCREMENTAL /ILK:"cmTC_9fc33.dir\\Debug\\cmTC_9fc33.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-nchhme/Debug/cmTC_9fc33.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-nchhme/Debug/cmTC_9fc33.lib" /MACHINE:X64  /machine:x64 cmTC_9fc33.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_9fc33.vcxproj -> E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nchhme\\Debug\\cmTC_9fc33.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ch5jz\\Debug\\cmTC_b02c0.exe" /INCREMENTAL /ILK:"cmTC_b02c0.dir\\Debug\\cmTC_b02c0.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-1ch5jz/Debug/cmTC_b02c0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-1ch5jz/Debug/cmTC_b02c0.lib" /MACHINE:X64  /machine:x64 cmTC_b02c0.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_b02c0.vcxproj -> E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ch5jz\\Debug\\cmTC_b02c0.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_9fc33.dir\\Debug\\cmTC_9fc33.tlog\\unsuccessfulbuild".
-          Touching "cmTC_9fc33.dir\\Debug\\cmTC_9fc33.tlog\\cmTC_9fc33.lastbuildstate".
-        Done Building Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nchhme\\cmTC_9fc33.vcxproj" (default targets).
+          Deleting file "cmTC_b02c0.dir\\Debug\\cmTC_b02c0.tlog\\unsuccessfulbuild".
+          Touching "cmTC_b02c0.dir\\Debug\\cmTC_b02c0.tlog\\cmTC_b02c0.lastbuildstate".
+        Done Building Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ch5jz\\cmTC_b02c0.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.34
+        Time Elapsed 00:00:00.36
         
       exitCode: 0
   -
@@ -210,8 +210,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-kv2tc6"
-      binary: "E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-kv2tc6"
+      source: "E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-5iy4xp"
+      binary: "E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-5iy4xp"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -221,40 +221,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-kv2tc6'
+        Change Dir: 'E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-5iy4xp'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_13ecb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4d462.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.12.12+1cce77968 for .NET Framework
-        Build started 1/13/2025 10:20:42 PM.
+        Build started 1/14/2025 10:23:33 PM.
         
-        Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kv2tc6\\cmTC_13ecb.vcxproj" on node 1 (default targets).
+        Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5iy4xp\\cmTC_4d462.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_13ecb.dir\\Debug\\".
+          Creating directory "cmTC_4d462.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kv2tc6\\Debug\\".
-          Creating directory "cmTC_13ecb.dir\\Debug\\cmTC_13ecb.tlog\\".
+          Creating directory "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5iy4xp\\Debug\\".
+          Creating directory "cmTC_4d462.dir\\Debug\\cmTC_4d462.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_13ecb.dir\\Debug\\cmTC_13ecb.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_13ecb.dir\\Debug\\cmTC_13ecb.tlog\\unsuccessfulbuild".
+          Creating "cmTC_4d462.dir\\Debug\\cmTC_4d462.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_4d462.dir\\Debug\\cmTC_4d462.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_13ecb.dir\\Debug\\\\" /Fd"cmTC_13ecb.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4d462.dir\\Debug\\\\" /Fd"cmTC_4d462.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.42.34435 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_13ecb.dir\\Debug\\\\" /Fd"cmTC_13ecb.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4d462.dir\\Debug\\\\" /Fd"cmTC_4d462.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kv2tc6\\Debug\\cmTC_13ecb.exe" /INCREMENTAL /ILK:"cmTC_13ecb.dir\\Debug\\cmTC_13ecb.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-kv2tc6/Debug/cmTC_13ecb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-kv2tc6/Debug/cmTC_13ecb.lib" /MACHINE:X64  /machine:x64 cmTC_13ecb.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_13ecb.vcxproj -> E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kv2tc6\\Debug\\cmTC_13ecb.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5iy4xp\\Debug\\cmTC_4d462.exe" /INCREMENTAL /ILK:"cmTC_4d462.dir\\Debug\\cmTC_4d462.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-5iy4xp/Debug/cmTC_4d462.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/source/repos/sdl-first-game/build/CMakeFiles/CMakeScratch/TryCompile-5iy4xp/Debug/cmTC_4d462.lib" /MACHINE:X64  /machine:x64 cmTC_4d462.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_4d462.vcxproj -> E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5iy4xp\\Debug\\cmTC_4d462.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_13ecb.dir\\Debug\\cmTC_13ecb.tlog\\unsuccessfulbuild".
-          Touching "cmTC_13ecb.dir\\Debug\\cmTC_13ecb.tlog\\cmTC_13ecb.lastbuildstate".
-        Done Building Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kv2tc6\\cmTC_13ecb.vcxproj" (default targets).
+          Deleting file "cmTC_4d462.dir\\Debug\\cmTC_4d462.tlog\\unsuccessfulbuild".
+          Touching "cmTC_4d462.dir\\Debug\\cmTC_4d462.tlog\\cmTC_4d462.lastbuildstate".
+        Done Building Project "E:\\source\\repos\\sdl-first-game\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5iy4xp\\cmTC_4d462.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.35
+        Time Elapsed 00:00:00.37
         
       exitCode: 0
   -
